@@ -1,2 +1,2 @@
 # Blockchain
-This is Blockchain example.
+This is an example of UWM Blockchain code.
